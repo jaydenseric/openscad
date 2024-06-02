@@ -1,20 +1,32 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [OpenSCAD](https://openscad.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [OpenSCAD](https://openscad.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/openscad](https://draculatheme.com/openscad).
+
+## Develop
+
+Prerequisites:
+ * [Jasonnet](https://jsonnet.org/)
+ * [Make](https://www.gnu.org/software/make/)
+
+To build the theme files:
+
+```sh
+make build
+```
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gtksourceview/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Njord A. Solberg](https://github.com/solbero.png?size=100)](https://github.com/solbero) |
+| ------------------------------------------------------------------------------------------ |
+| [Njord A. Solberg](https://github.com/solbero)                                             |
 
 ## Community
 
