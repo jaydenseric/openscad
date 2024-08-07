@@ -11,8 +11,9 @@ All instructions can be found at [draculatheme.com/openscad](https://draculathem
 ## Develop
 
 Prerequisites:
- * [Jasonnet](https://jsonnet.org/)
- * [Make](https://www.gnu.org/software/make/)
+
+- [Jasonnet](https://jsonnet.org/)
+- [Make](https://www.gnu.org/software/make/)
 
 To build the theme files:
 
